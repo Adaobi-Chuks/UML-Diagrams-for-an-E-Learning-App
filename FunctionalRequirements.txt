@@ -1,0 +1,8 @@
+The 6 most important functional requirement for the e-learning app is:
+
+1.) It must be suitable for all type of users
+2.) The app should have multiple language option
+3.) Certifications for course completeion
+4.) It should include multiple payment plans
+5.) Must include downloadable content
+6.) It should include user tutorials on the functionalities of the app
